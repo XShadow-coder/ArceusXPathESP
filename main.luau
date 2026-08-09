@@ -1,8 +1,5 @@
 -- =========================================================
--- SHADOW ESP
--- MoonDex Path ESP + Cached GitHub Images
--- Stable UI State + Distance
--- Mobile + PC
+-- MoonDex Path ESP
 -- =========================================================
 
 local Players = game:GetService("Players")
